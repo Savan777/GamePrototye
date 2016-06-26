@@ -1,0 +1,29 @@
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\bin\Debug\GamePrototypeSchool.exe
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\bin\Debug\GamePrototypeSchool.pdb
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.Form1.resources
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.Properties.Resources.resources
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.exe
+u:\documents\visual studio 2010\Projects\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.pdb
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.exe
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.pdb
+E:\GamePrototypeSchool\GamePrototypeSchool\bin\Debug\GamePrototypeSchool.exe
+E:\GamePrototypeSchool\GamePrototypeSchool\bin\Debug\GamePrototypeSchool.pdb
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.Form1.resources
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.Properties.Resources.resources
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.exe
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.pdb
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\bin\Debug\GamePrototypeSchool.exe
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\bin\Debug\GamePrototypeSchool.pdb
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.Form1.resources
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.Properties.Resources.resources
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Profile\Desktop\GamePrototypeSchool\GamePrototypeSchool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\100583384\Documents\games\GamePrototye\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.exe
+C:\Users\100583384\Documents\games\GamePrototye\GamePrototypeSchool\obj\x86\Debug\GamePrototypeSchool.pdb
